@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/engine-R-276DC3?style=flat-square&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/shell-Rust%20%C2%B7%20Tauri%202-24C8DB?style=flat-square&logo=tauri&logoColor=white">
 <img src="https://img.shields.io/badge/platforms-macOS%20%C2%B7%20Windows-555?style=flat-square">
-<img src="https://img.shields.io/badge/tests-462%20passing-5b4bb7?style=flat-square">
+<img src="https://img.shields.io/badge/tests-467%20passing-5b4bb7?style=flat-square">
 <img src="https://img.shields.io/badge/reporting-STROBE--MR-c2552b?style=flat-square">
 </p>
 
@@ -48,7 +48,7 @@ flowchart LR
 | Bowden et al. (2016), *Genet Epidemiol*: reference estimates | Reproduced within 0.0022 |
 | Hemani et al. (2018), *eLife*: LDL cholesterol → coronary heart disease (TwoSampleMR reference example) | Identical to TwoSampleMR within ~1e-15 across all clumping modes |
 | Real-data stress test: BMI → coronary heart disease | 501 instruments processed end-to-end |
-| Automated test suite | 462 tests, all passing: 322 engine, 37 contract, 54 script, 34 study and 15 build-gate tests |
+| Automated test suite | 467 tests, all passing: 327 engine, 37 contract, 54 script, 34 study and 15 build-gate tests |
 
 ## Architecture
 ```mermaid
