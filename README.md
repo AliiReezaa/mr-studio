@@ -47,7 +47,7 @@ flowchart LR
 |---|---|
 | Bowden et al. (2016), *Genet Epidemiol*: reference estimates | Reproduced within 0.0022 |
 | Hemani et al. (2018), *eLife*: LDL cholesterol → coronary heart disease (TwoSampleMR reference example) | Identical to TwoSampleMR within ~1e-15 across all clumping modes |
-| Real-data stress test: BMI → coronary heart disease | 501 instruments processed end-to-end |
+| Real-data stress test: BMI (ieu-b-40) → coronary heart disease (ieu-a-8) | 501 instruments, 482 after harmonisation, run end-to-end in the installed app |
 | Automated test suite | 467 tests, all passing: 327 engine, 37 contract, 54 script, 34 study and 15 build-gate tests |
 
 ## Architecture
